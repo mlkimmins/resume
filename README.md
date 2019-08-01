@@ -1,4 +1,4 @@
-# Michael Kimmins
+# Mika Kimmins
 ## Software Engineer
 
 > [Download PDF](resume.pdf)  
@@ -70,5 +70,5 @@ Marvell Semiconductors
 
 ### Footer {#footer}
 
-Michael Kimmins -- [@gmail.com](ml [point/period/dot] kimmins [at_sign] gmail [dot/punto/period] com)
+Mika Kimmins -- [@gmail.com](ml [point/period/dot] kimmins [at_sign] gmail [dot/punto/period] com)
 ------
